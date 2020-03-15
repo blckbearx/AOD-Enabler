@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <public type="bool" name="config_dozeAlwaysOnDisplayAvailable" id="0x7f020000" />
+    <public type="bool" name="config_displayBlanksAfterDoze" id="0x7f020001" />
+    <public type="bool" name="config_powerDecoupleAutoSuspendModeFromDisplay" id="0x7f020002" />
+    <public type="bool" name="config_powerDecoupleInteractiveModeFromDisplay" id="0x7f020003" />
+</resources>
