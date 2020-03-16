@@ -4,4 +4,7 @@
     <public type="bool" name="config_displayBlanksAfterDoze" id="0x7f020001" />
     <public type="bool" name="config_powerDecoupleAutoSuspendModeFromDisplay" id="0x7f020002" />
     <public type="bool" name="config_powerDecoupleInteractiveModeFromDisplay" id="0x7f020003" />
+    <public type="bool" name="config_enableBurnInProtection" id="0x7f020004" />
+    <public type="bool" name="config_dozeAfterScreenOffByDefault" id="0x7f020005" />
+    <public type="bool" name="config_dozeSupportsAodWallpaper" id="0x7f020006" />
 </resources>
